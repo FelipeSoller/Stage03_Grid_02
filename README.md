@@ -2,6 +2,10 @@
 
 This repository contains the HTML and CSS code for a Fotoblog webpage. Fotoblog is a simple web application for showcasing a gallery of images related to various work environments. The webpage is designed with a clean and modern layout, featuring responsive design elements for optimal viewing on different devices.
 
+<div align="center">
+    <img alt="Web" src="https://github.com/FelipeSoller/Stage03_Grid_02/blob/main/grid.gif" width="900px">
+</div>
+
 ## Technologies Used
 
 - **HTML5:** The structure of the webpage is built using HTML5, providing a semantic and organized layout.
